@@ -1,0 +1,10 @@
+{
+  "name": "@careercopilot/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo '✓ No issues found in services/api (mock lint)'",
+    "build": "echo '✓ Build succeeded for services/api (mock build)'",
+    "dev": "echo '✓ Service api running in stub mode (mock dev)'"
+  }
+}

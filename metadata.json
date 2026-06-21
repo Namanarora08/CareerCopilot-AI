@@ -1,0 +1,6 @@
+{
+  "name": "CareerCopilot Core",
+  "description": "An AI-native Career Intelligence Platform with multi-agent orchestration, persistent Knowledge Graph, and professional career management solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

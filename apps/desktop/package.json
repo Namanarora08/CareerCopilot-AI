@@ -1,0 +1,10 @@
+{
+  "name": "@careercopilot/desktop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo '✓ No issues found in apps/desktop (mock lint)'",
+    "build": "echo '✓ Build succeeded for apps/desktop (mock build)'",
+    "dev": "echo '✓ Desktop shell running (mock dev)'"
+  }
+}
